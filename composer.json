@@ -1,0 +1,13 @@
+{
+    "name": "vendor/dozuki-import",
+    "description": "Description of project DozukiImport.",
+    "authors": [
+        {
+            "name": "Libor Vachal",
+            "email": "libor.vachal@gmail.com"
+        }
+    ],
+    "require": {
+        "shuber/curl": "v1.0.0"
+    }
+}

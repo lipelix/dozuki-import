@@ -6,9 +6,10 @@
         
     </head>
     <body>
-        <h1>Dozuki import</h1>>
+        <h1>Dozuki import</h1>
         <?php
-            require_once('./import.php'); 
+            require 'vendor/autoload.php';
+            require 'import.php';
         ?>
     </body>
 </html>
